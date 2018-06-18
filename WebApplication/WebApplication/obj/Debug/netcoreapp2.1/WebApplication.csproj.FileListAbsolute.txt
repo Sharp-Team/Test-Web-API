@@ -1,0 +1,14 @@
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.deps.json
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.json
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.dev.json
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfo.cs
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\DemonsLight\Desktop\Test API\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.pdb
